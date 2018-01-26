@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Tangerine', serif;
+    font-size: 14px;
+    background-image: url("https://www.hdwallpapers.in/walls/apple_new_2012-HD.jpg");
+    background-position: center;
+}
+
+#bogImage             { position: fixed; left: 30px; }
+
+p                     { font-size: 30px; line-height: 1.3em; }
+
+div#page-wrap         { width: 500px; margin: 20px auto; }
+
+p                     { margin-left: 450px; position: relative;}
+
+form                  { padding-right: 80px; margin-bottom: 20px; }
+
+fieldset              { padding: 10px; position: relative; }
+
+label                 { display: block; float: left; width: 120px; }
+
+input, textarea       { margin-bottom: 5px; }
+
+legend                { font-size: 1.8em; }
+
+#signInButton         { position: absolute; top: 70px; left: 350px; }
+
+#joinButton           { position: absolute; top: 150px; left: 350px; }
+
+#LinksDiv
+{
+    width: 416px;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    font: 16px "Lucida Grande", Sans-Serif !important;
+}
